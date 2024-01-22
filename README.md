@@ -56,6 +56,15 @@ Iniciar o servidor:
 yarn dev
 ```
 
+## Usuário Mockado para acesso(src/app/mock)
+```ts
+export const userMock = {
+  email: 'lean@admin.com',
+  password: 'Homemaranha123@',
+}
+
+```
+
 ## Rodando testes
 
 Para garantir a qualidade do código e a conformidade com as diretrizes do projeto, você pode executar tarefas e testes. Certifique-se de que seu ambiente esteja com todas as dependências de instalação.
