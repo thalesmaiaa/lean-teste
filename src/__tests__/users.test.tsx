@@ -1,5 +1,5 @@
 import { describe, expect, test, vi } from 'vitest'
-import { act, fireEvent, render } from '@testing-library/react'
+import { render } from '@testing-library/react'
 import { HomePage } from '../app/pages'
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { Table } from '@/components'
