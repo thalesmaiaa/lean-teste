@@ -10,6 +10,7 @@ Projeto utilizando [Next.js](https://nextjs.org/).
 - [Zod](https://zod.dev/)
 - [Framer-motion](https://www.framer.com/motion/)
 - [React-Query](https://tanstack.com/query/latest/docs/react/overview)
+- [Vitest](https://vitest.dev/)
 
 ## Instalação
 
