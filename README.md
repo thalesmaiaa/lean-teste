@@ -1,4 +1,4 @@
-Projeto utilizando [Next.js](https://nextjs.org/).
+Projeto utilizando [Next.js](https://nextjs.org/), Node-v18.17.0.
 
 ## Tecnologias utilizadas
 
@@ -11,6 +11,7 @@ Projeto utilizando [Next.js](https://nextjs.org/).
 - [Framer-motion](https://www.framer.com/motion/)
 - [React-Query](https://tanstack.com/query/latest/docs/react/overview)
 - [Vitest](https://vitest.dev/)
+- [Node-18.17.0](https://nodejs.org/en)
 
 ## Instalação
 
