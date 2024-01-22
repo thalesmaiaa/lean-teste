@@ -109,7 +109,7 @@ src/
   │   │   │   ├─ useA.ts
   │   │   │   └─ index.ts
   │   │   │
-  │   │   ├─ pageB/
+  │   │   ├─ useB/
   │   │   │   ├─ useB.tsx
   │   │   │   └─ index.ts
   │   │   │
