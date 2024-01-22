@@ -24,8 +24,9 @@ export const useTable = () => {
   const updateSortDirection = useCallback((key: string) => {
     setSortModel((prevSortModel) => {
       // Find the current sort value
-      const currentSort =
-        prevSortModel.length > 0 ? prevSortModel[0].sort : undefined
+      const currentSort = prevSortModel.length
+        ? prevSortModel[0].sort
+        : undefined
 
       // Toggle the sort value (ascending to descending, descending to ascending)
       const newSort = currentSort === 'asc' ? 'desc' : 'asc'

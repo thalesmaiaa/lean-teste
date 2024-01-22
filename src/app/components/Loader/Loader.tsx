@@ -2,11 +2,11 @@ import { PanoramaFishEye } from '@mui/icons-material'
 import { tv } from 'tailwind-variants'
 
 const loader = tv({
-  base: ['animate-spin mx-auto my-0 flex relative top-1/2   '],
+  base: ['animate-spin mx-auto my-0 flex relative top-1/2'],
 
   variants: {
     variant: {
-      violet: 'text-violet-500 ',
+      violet: 'text-violet-500 h-[90dvh]',
       white: 'text-white',
     },
   },
