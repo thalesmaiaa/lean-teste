@@ -155,8 +155,6 @@ Essa lógica do components se repete para outros folders como `hooks` e `pages`,
 
 Dentro da aplicação, mais especificamente na tela da listagem, vai ser possível visualizar um aviso `MUI X Missing license key`, o mesmo ocorre pela utilização do `DataGridPro`, mas o mesmo é permitido para utilização de acordo com [licensa](https://mui.com/x/introduction/licensing/#evaluation-trial-licenses) mais especificamente no seguinte texto:
 
-```bash
-De acordo com o Contrato de Licença do Usuário Final, você pode usar os componentes Pro e Premium sem licença comercial por 30 dias para ambientes que não sejam de produção. Você também pode utilizá-lo para o desenvolvimento de código não destinado à produção (por exemplo, a reprodução de um problema, fazendo um benchmark).
-
+>De acordo com o Contrato de Licença do Usuário Final, você pode usar os componentes Pro e Premium sem licença comercial por 30 dias para ambientes que não sejam de produção. Você também pode utilizá-lo para o desenvolvimento de código não destinado à produção (por exemplo, a reprodução de um problema, fazendo um benchmark).
 Você não precisa entrar em contato conosco para usar esses componentes nos casos acima. Você precisará adquirir uma licença comercial para remover as marcas d'água e os avisos do console.
-```
+
