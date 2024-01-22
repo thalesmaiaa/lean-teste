@@ -27,7 +27,7 @@ Instalar as dependências
 yarn
 ```
 
-Crie o arquivo com as variáveis de ambiente .env ou .env.local para evitar erros ao iniciar o servidor devido à falta de variáveis de ambiente. Isso é crucial, pois existe uma validação que utiliza Zod para garantir a execução da aplicação somente na presença do arquivo .env.
+Crie o arquivo com as variáveis de ambiente `.env.local` para evitar erros ao iniciar o servidor devido à falta de variáveis de ambiente. Isso é crucial, pois existe uma validação que utiliza Zod para garantir a execução da aplicação somente na presença do arquivo env.
 
 ```ts
 import { z } from 'zod';
